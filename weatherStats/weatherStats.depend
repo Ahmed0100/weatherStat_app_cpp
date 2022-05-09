@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1585065085 source:c:\users\amustafa\desktop\weatherstats\main.cpp
+	<iostream>
+	"WeatherStats.cpp"
+	<string>
+
+1585066248 c:\users\amustafa\desktop\weatherstats\weatherstats.cpp
+	"WeatherStats.h"
+
+1585066208 c:\users\amustafa\desktop\weatherstats\weatherstats.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<map>
+	<ctime>
+
